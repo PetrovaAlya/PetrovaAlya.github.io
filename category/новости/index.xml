@@ -5,7 +5,7 @@
     <link>https://example.com/category/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</link>
       <atom:link href="https://example.com/category/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/index.xml" rel="self" type="application/rss+xml" />
     <description>Новости</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 16 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 05 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Новости</title>
@@ -13,10 +13,32 @@
     </image>
     
     <item>
+      <title>Что было на этой неделе V2</title>
+      <link>https://example.com/post/post4week2/</link>
+      <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/post4week2/</guid>
+      <description>&lt;h2 id=&#34;коротенько-о-главном&#34;&gt;Коротенько о главном&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Контрольные и самостоятельные обошли меня стороной, что не может не радовать :)&lt;/li&gt;
+&lt;li&gt;Наконец-то я окончательно приобщилась к великому искусству и досмотрела сериал &amp;ldquo;Кухня&amp;rdquo;. Теперь я знаю, что глупых людей можно называть огузками и огрызками)&lt;/li&gt;
+&lt;li&gt;Оказывается, Красное&amp;amp;Белое это магазин, в котором можно купить много вкусняшек по хорошим ценам (теперь есть смысл туда ходить)&lt;/li&gt;
+&lt;li&gt;Лабораторные работы делаются&amp;hellip;&amp;hellip;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;рубрика-по-мелочи&#34;&gt;Рубрика &amp;ldquo;По мелочи&amp;rdquo;&lt;/h2&gt;
+&lt;p&gt;Мелочи настолько мелочные, что было бы мелочно так мелочиться, чтобы рассказывать про эти мелочи&lt;/p&gt;
+&lt;h2 id=&#34;рубрика-советы-из-жизни&#34;&gt;Рубрика &amp;ldquo;Советы из жизни&amp;rdquo;&lt;/h2&gt;
+&lt;p&gt;Оказывается, спать по 6 и более часов вместо 3-х очень даже полезно для здоровья! Пользуйтесь)&lt;/p&gt;
+&lt;h2 id=&#34;итоги&#34;&gt;Итоги&lt;/h2&gt;
+&lt;p&gt;Неделя, как неделя, ничего особенного. Изменений по-минимуму, негатива тоже. Ждем следующую&amp;hellip;.&lt;/p&gt;
+&lt;p&gt;Прочитаемся на следующей неделе, всех люблю!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Что было на этой неделе</title>
-      <link>https://example.com/post/post1/</link>
+      <link>https://example.com/post/post1week1/</link>
       <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post1/</guid>
+      <guid>https://example.com/post/post1week1/</guid>
       <description>&lt;h2 id=&#34;главные-события&#34;&gt;Главные события&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;В первую очередь, конечно же, стоит сказать про учебу, ведь она занимает основную часть моего времени. Итак, пар было достаточно, чтобы понадобился небольшой отдых, но о нем в следующих пунктах. Приходилось много времени уделить выполнению домашнего задания, чтобы довести все до ума, но итоговый результат оправдал все усилия (я надеюсь)&lt;/li&gt;
