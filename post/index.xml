@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Academic</title>
-    <link>https://example.com/post/</link>
-      <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/post/</link>
+      <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 26 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
-      <link>https://example.com/post/</link>
+      <link>http://localhost:1313/post/</link>
     </image>
     
     <item>
       <title>Оформление отчетов</title>
-      <link>https://example.com/post/post6%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5/</link>
+      <link>http://localhost:1313/post/post6%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5/</link>
       <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post6%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5/</guid>
+      <guid>http://localhost:1313/post/post6%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5/</guid>
       <description>&lt;h2 id=&#34;ну-что-граждане-будем-оформляться&#34;&gt;Ну что, граждане, будем оформляться?&lt;/h2&gt;
 &lt;p&gt;Основные принципы оформления отчетов по практике приведены в Стандарте организации «Порядок оформления методических разработок, курсовых и выпускных квалифицированных работ». Порядок разработан на основе Государственных стандартов оформления документов (ГОСТ 1.5-2001, ГОСТ 7.1-2003).&lt;/p&gt;
 &lt;p&gt;Текст отчета по практике должен быть набран на компьютере шрифтом Times New Roman размером 14 пт. (при оформлении текста используется текстовый редактор Microsoft Word). Шрифт, используемый в иллюстративном материале (таблицы и рисунки), рекомендуется уменьшить до 12 пт. Межстрочный интервал в основном тексте - полуторный. В иллюстративном материале межстрочный интервал рекомендуется сделать одинарным. Поля страницы должны быть:&lt;/p&gt;
@@ -56,9 +56,9 @@
     
     <item>
       <title>Что было на этой неделе V3</title>
-      <link>https://example.com/post/post5week3/</link>
+      <link>http://localhost:1313/post/post5week3/</link>
       <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post5week3/</guid>
+      <guid>http://localhost:1313/post/post5week3/</guid>
       <description>&lt;h2 id=&#34;коротенько-о-главном&#34;&gt;Коротенько о главном&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;Я начала осваивать графический дизайн и поняла, что это именно та деятельность, которая мне была нужна&lt;/li&gt;
@@ -81,9 +81,9 @@
     
     <item>
       <title>Что было на этой неделе V2</title>
-      <link>https://example.com/post/post4week2/</link>
+      <link>http://localhost:1313/post/post4week2/</link>
       <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post4week2/</guid>
+      <guid>http://localhost:1313/post/post4week2/</guid>
       <description>&lt;h2 id=&#34;коротенько-о-главном&#34;&gt;Коротенько о главном&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;Контрольные и самостоятельные обошли меня стороной, что не может не радовать :)&lt;/li&gt;
@@ -103,9 +103,9 @@
     
     <item>
       <title>Язык разметки Markdown</title>
-      <link>https://example.com/post/post3markdown/</link>
+      <link>http://localhost:1313/post/post3markdown/</link>
       <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post3markdown/</guid>
+      <guid>http://localhost:1313/post/post3markdown/</guid>
       <description>&lt;p&gt;Markdown — это простой язык разметки, используемый для создания форматированного текста (например, HTML) с помощью текстового редактора. Он позволяет добавлять к тексту базовое форматирование, используя символы, известные и доступные на всех клавиатурах. Размер шрифта, цвет и другие расширенные параметры недоступны в Markdown.&lt;/p&gt;
 &lt;p&gt;Вы можете встретить Markdown в .md или .markdown файлах.&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
@@ -163,9 +163,9 @@
     
     <item>
       <title>Управление версиями Git</title>
-      <link>https://example.com/post/post2versioncontrol/</link>
+      <link>http://localhost:1313/post/post2versioncontrol/</link>
       <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post2versioncontrol/</guid>
+      <guid>http://localhost:1313/post/post2versioncontrol/</guid>
       <description>&lt;h2 id=&#34;о-системе-контроля-версий&#34;&gt;О системе контроля версий&lt;/h2&gt;
 &lt;p&gt;Что такое «система контроля версий» и почему это важно? Система контроля версий — это система, записывающая изменения в файл или набор файлов в течение времени и позволяющая вернуться позже к определённой версии. Для контроля версий файлов в этой книге в качестве примера будет использоваться исходный код программного обеспечения, хотя на самом деле вы можете использовать контроль версий практически для любых типов файлов.&lt;/p&gt;
 &lt;p&gt;Если вы графический или web-дизайнер и хотите сохранить каждую версию изображения или макета (скорее всего, захотите), система контроля версий (далее VCS) — как раз то, что нужно. Она позволяет вернуть файлы к состоянию, в котором они были до изменений, вернуть проект к исходному состоянию, увидеть изменения, увидеть, кто последний менял что-то и вызвал проблему, кто поставил задачу и когда и многое другое. Использование VCS также значит в целом, что, если вы сломали что-то или потеряли файлы, вы спокойно можете всё исправить. В дополнение ко всему вы получите всё это без каких-либо дополнительных усилий.&lt;/p&gt;
@@ -194,7 +194,7 @@
                /post/post2versioncontrol/1_hufcb633eabb4ce248b64f5422c2c69f5a_20255_7dea048445c495e32aed14824d931f27.webp 400w,
                /post/post2versioncontrol/1_hufcb633eabb4ce248b64f5422c2c69f5a_20255_a2a703ac3f8d04f25559d7442adff88c.webp 760w,
                /post/post2versioncontrol/1_hufcb633eabb4ce248b64f5422c2c69f5a_20255_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/post2versioncontrol/1_hufcb633eabb4ce248b64f5422c2c69f5a_20255_7dea048445c495e32aed14824d931f27.webp&#34;
+               src=&#34;http://localhost:1313/post/post2versioncontrol/1_hufcb633eabb4ce248b64f5422c2c69f5a_20255_7dea048445c495e32aed14824d931f27.webp&#34;
                width=&#34;760&#34;
                height=&#34;649&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -225,7 +225,7 @@
                /post/post2versioncontrol/2_hu74fb508a0af33a33fa0f541a94378552_22810_5270c9cc3d509c774dbcc76125f1c678.webp 400w,
                /post/post2versioncontrol/2_hu74fb508a0af33a33fa0f541a94378552_22810_42d0eeea6ea2b8ccc599ff10f2bcf79c.webp 760w,
                /post/post2versioncontrol/2_hu74fb508a0af33a33fa0f541a94378552_22810_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/post2versioncontrol/2_hu74fb508a0af33a33fa0f541a94378552_22810_5270c9cc3d509c774dbcc76125f1c678.webp&#34;
+               src=&#34;http://localhost:1313/post/post2versioncontrol/2_hu74fb508a0af33a33fa0f541a94378552_22810_5270c9cc3d509c774dbcc76125f1c678.webp&#34;
                width=&#34;760&#34;
                height=&#34;528&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -257,7 +257,7 @@
                /post/post2versioncontrol/3_hu7dff96406965f7bb87732a216019226c_26657_70250987bf7266d4389417b0b0508de0.webp 400w,
                /post/post2versioncontrol/3_hu7dff96406965f7bb87732a216019226c_26657_86bb81a48ba9a95953e221f268702778.webp 760w,
                /post/post2versioncontrol/3_hu7dff96406965f7bb87732a216019226c_26657_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/post2versioncontrol/3_hu7dff96406965f7bb87732a216019226c_26657_70250987bf7266d4389417b0b0508de0.webp&#34;
+               src=&#34;http://localhost:1313/post/post2versioncontrol/3_hu7dff96406965f7bb87732a216019226c_26657_70250987bf7266d4389417b0b0508de0.webp&#34;
                width=&#34;635&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -269,9 +269,9 @@
     
     <item>
       <title>Что было на этой неделе</title>
-      <link>https://example.com/post/post1week1/</link>
+      <link>http://localhost:1313/post/post1week1/</link>
       <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post1week1/</guid>
+      <guid>http://localhost:1313/post/post1week1/</guid>
       <description>&lt;h2 id=&#34;главные-события&#34;&gt;Главные события&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;В первую очередь, конечно же, стоит сказать про учебу, ведь она занимает основную часть моего времени. Итак, пар было достаточно, чтобы понадобился небольшой отдых, но о нем в следующих пунктах. Приходилось много времени уделить выполнению домашнего задания, чтобы довести все до ума, но итоговый результат оправдал все усилия (я надеюсь)&lt;/li&gt;
@@ -295,9 +295,9 @@
     
     <item>
       <title>Blog with Jupyter Notebooks!</title>
-      <link>https://example.com/post/blog-with-jupyter/</link>
+      <link>http://localhost:1313/post/blog-with-jupyter/</link>
       <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/blog-with-jupyter/</guid>
+      <guid>http://localhost:1313/post/blog-with-jupyter/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;from&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;IPython.core.display&lt;/span&gt; &lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;
@@ -322,7 +322,7 @@
                /post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_5a714abab5f53c70f7c38e19755638d3.webp 400w,
                /post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_6b76da17c04a40aee4c1c633206f8065.webp 760w,
                /post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_5a714abab5f53c70f7c38e19755638d3.webp&#34;
+               src=&#34;http://localhost:1313/post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_5a714abab5f53c70f7c38e19755638d3.webp&#34;
                width=&#34;601&#34;
                height=&#34;203&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -342,9 +342,9 @@
     
     <item>
       <title>Writing technical content in Markdown</title>
-      <link>https://example.com/post/writing-technical-content/</link>
+      <link>http://localhost:1313/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/writing-technical-content/</guid>
+      <guid>http://localhost:1313/post/writing-technical-content/</guid>
       <description>&lt;p&gt;Hugo Blox Builder is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Wowchemy.&lt;/p&gt;
@@ -444,7 +444,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-754893612&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-742681395&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -454,7 +454,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-754893612&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-742681395&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

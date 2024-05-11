@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic</title>
-    <link>https://example.com/</link>
-      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/</link>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
-      <link>https://example.com/</link>
+      <link>http://localhost:1313/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://example.com/talk/example-talk/</link>
+      <link>http://localhost:1313/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://example.com/talk/example-talk/</guid>
+      <guid>http://localhost:1313/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -33,10 +33,125 @@
     </item>
     
     <item>
+      <title>Умный помощник для студентов</title>
+      <link>http://localhost:1313/project/example/</link>
+      <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/example/</guid>
+      <description>&lt;h1 id=&#34;описание&#34;&gt;Описание&lt;/h1&gt;
+&lt;p&gt;Это мобильное приложение, которое помогает студентам повысить эффективность обучения и организовать свою учебную деятельность. Приложение использует технологии искусственного интеллекта и машинного обучения для анализа привычек и потребностей пользователей, предоставляя им персонализированные рекомендации и инструменты.&lt;/p&gt;
+&lt;h1 id=&#34;основные-функции&#34;&gt;Основные функции&lt;/h1&gt;
+&lt;p&gt;Планировщик задач и расписания: Приложение помогает студентам создавать и управлять своим расписанием занятий, домашних заданий и экзаменов.&lt;/p&gt;
+&lt;p&gt;Персонализированные рекомендации: На основе анализа привычек и успеваемости пользователя, приложение предлагает рекомендации по улучшению методов обучения, распределению времени и организации рабочего пространства.&lt;/p&gt;
+&lt;p&gt;Интеллектуальный помощник: Приложение может отвечать на вопросы студентов, помогать с поиском информации и предоставлять подсказки по учебным материалам.&lt;/p&gt;
+&lt;p&gt;Социальная сеть: Студенты могут общаться друг с другом, обмениваться заметками, создавать учебные группы и совместно работать над проектами.&lt;/p&gt;
+&lt;p&gt;Аналитика успеваемости: Приложение отслеживает успеваемость студентов, выявляет области, требующие улучшения, и предлагает стратегии для повышения успеваемости.&lt;/p&gt;
+&lt;h1 id=&#34;основные-этапы-реализации&#34;&gt;Основные этапы реализации:&lt;/h1&gt;
+&lt;p&gt;Этап 1: Исследование и планирование (2 недели)
+Изучение потребностей и проблем студентов в процессе обучения.
+Определение целей, задач и ключевых функций приложения.
+Разработка подробного плана проекта, включая технические требования и необходимые ресурсы.&lt;/p&gt;
+&lt;p&gt;Этап 2: Проектирование и прототипирование (4 недели)
+Разработка дизайна пользовательского интерфейса (UI/UX).
+Создание прототипов для тестирования функциональности и удобства использования.
+Подготовка технического задания, описывающего архитектуру и функциональные возможности приложения.&lt;/p&gt;
+&lt;p&gt;Этап 3: Разработка бэкенда (12 недель)
+Создание серверной части приложения с использованием языка программирования, такого как Python или Node.js.
+Проектирование и реализация базы данных для хранения данных пользователей и их активности.
+Разработка API для интеграции с внешними сервисами, такими как образовательные платформы или сервисы поиска информации.&lt;/p&gt;
+&lt;p&gt;Этап 4: Разработка фронтенда (12 недель)
+Создание мобильного приложения с использованием фреймворка, например, React Native или Flutter.
+Реализация пользовательского интерфейса, включая планировщик задач, рекомендательную систему и аналитические инструменты.
+Интеграция фронтенда с бэкендом и внешними API.&lt;/p&gt;
+&lt;p&gt;Этап 5: Разработка интеллектуального помощника (8 недель)
+Создание моделей машинного обучения для анализа данных пользователей и предоставления персонализированных рекомендаций.
+Интеграция чат-бота или голосового помощника в приложение для ответов на вопросы студентов.&lt;/p&gt;
+&lt;p&gt;Этап 6: Тестирование и отладка (4 недели)
+Проведение модульного, интеграционного и пользовательского тестирования.
+Устранение выявленных ошибок и доработка приложения.&lt;/p&gt;
+&lt;p&gt;Этап 7: Развертывание и поддержка (2 недели)
+Публикация приложения в магазинах App Store и Google Play.
+Мониторинг производительности, устранение ошибок и регулярное обновление приложения.&lt;/p&gt;
+&lt;p&gt;Этап 8: Маркетинг и продвижение (4 недели)
+Разработка маркетинговой стратегии для привлечения целевой аудитории.
+Создание рекламных материалов, таких как видео, публикации в социальных сетях и статьи в блоге.
+Запуск приложения и отслеживание его принятия и вовлеченности пользователей.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Что было на этой неделе V4</title>
+      <link>http://localhost:1313/post/post7week4/</link>
+      <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/post7week4/</guid>
+      <description>&lt;h2 id=&#34;коротенько-о-главном&#34;&gt;Коротенько о главном&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Я делаю первые успехи в сфере графического дизайна, у меня даже появился первый заказчик (пусть и бесплатный)&lt;/li&gt;
+&lt;li&gt;Через два часа после того, как будет выложен этот пост, я поеду играть в бильярд. Всем, кто не в моей команде, сочувствую.&lt;/li&gt;
+&lt;li&gt;Лабораторные работы все еще делаются&amp;hellip;&amp;hellip;&lt;/li&gt;
+&lt;li&gt;Купила вкусных рыбов&lt;/li&gt;
+&lt;li&gt;Красивое&amp;hellip;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;рубрика-по-мелочи&#34;&gt;Рубрика &amp;ldquo;По мелочи&amp;rdquo;&lt;/h2&gt;
+&lt;p&gt;Купила итальянские печеньки, вроде мелочь, а стоят не как мелочь&lt;/p&gt;
+&lt;h2 id=&#34;рубрика-советы-из-жизни&#34;&gt;Рубрика &amp;ldquo;Советы из жизни&amp;rdquo;&lt;/h2&gt;
+&lt;p&gt;Если вы заблудились в лесу, идите домой!&lt;/p&gt;
+&lt;h2 id=&#34;итоги&#34;&gt;Итоги&lt;/h2&gt;
+&lt;p&gt;Неделька легкая, не нагруженная, значит и пост должен выйти таким же&lt;/p&gt;
+&lt;p&gt;До скорого, всех люблю!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Языки научного программирования</title>
+      <link>http://localhost:1313/post/post8%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</link>
+      <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/post8%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</guid>
+      <description>&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
+&lt;h1 id=&#34;в-статье-мы-рассмотрим-следующие-темы&#34;&gt;В статье мы рассмотрим следующие темы:&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Язык разметки LaTeX&lt;/li&gt;
+&lt;li&gt;Язык программирования Octave&lt;/li&gt;
+&lt;li&gt;Язык программирования Julia&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;язык-разметки-latex&#34;&gt;Язык разметки LaTeX&lt;/h1&gt;
+&lt;p&gt;LaTeX (произносится /ˈlɑːtɛx/ или /ˈleɪtɛx/[1]) — наиболее популярный набор макрорасширений (или макропакет) системы компьютерной вёрстки TeX, который облегчает набор сложных документов.&lt;/p&gt;
+&lt;p&gt;Этот инструмент используется повсеместно для создания научных документов, написания книг, а также многих других форм публикаций. Он позволяет не только создавать красиво оформленные документы, но также дает пользователям возможность очень быстро реализовывать такие сложные элементы печатного набора, как математические выражения, таблицы, ссылки и библиографии, получая согласованную разметку по всем разделам.&lt;/p&gt;
+&lt;p&gt;Благодаря доступности большого числа открытых библиотек (об этом чуть позже) возможности LaTEX становятся практически безграничны. Эти библиотеки расширяют возможности пользователей еще больше, позволяя добавлять сноски, рисовать схемы и пр.&lt;/p&gt;
+&lt;p&gt;Одна из наиболее веских причин, по которой многие используют LaTeX, заключается в отделении содержания документа от его стиля. Это означает, что после написания содержимого, можно с легкостью изменять его внешний вид. Аналогичным образом, можно создать один стиль документа и использовать его для стандартизации внешнего вида других.&lt;/p&gt;
+&lt;p&gt;Это позволяет научным журналам создавать шаблоны для предлагаемых на рассмотрение материалов. Такие шаблоны имеют заданную разметку, в результате чего добавить остается лишь содержание. На деле существуют сотни подобных шаблонов, начиная с различных резюме и заканчивая презентациями слайдов.&lt;/p&gt;
+&lt;h1 id=&#34;язык-программирования-octave&#34;&gt;Язык программирования Octave&lt;/h1&gt;
+&lt;p&gt;MGNU Octave — свободная система для математических вычислений[1], использующая совместимый с MATLAB язык высокого уровня.&lt;/p&gt;
+&lt;p&gt;Octave представляет интерактивный командный интерфейс для решения линейных и нелинейных математических задач, а также проведения других численных экспериментов. Кроме того, Octave можно использовать для пакетной обработки. Язык Octave оперирует арифметикой вещественных и комплексных скаляров, векторов и матриц, имеет расширения для решения линейных алгебраических задач, нахождения корней систем нелинейных алгебраических уравнений, работы с полиномами, решения различных дифференциальных уравнений, интегрирования систем дифференциальных и дифференциально-алгебраических уравнений первого порядка, интегрирования функций на конечных и бесконечных интервалах. Этот список можно легко расширить, используя язык Octave (или используя динамически загружаемые модули, созданные на языках C, C++, Фортран и др.).&lt;/p&gt;
+&lt;p&gt;Исследователи из Университета Мэриленда в США провели сравнительный анализ математических вычислений, используя MATLAB, Octave, SciLab и FreeMat в простом сценарии и в сложном. В первом случае решали систему линейных уравнений а в втором — конечно-разностную дискретизацию уравнения Пуассона в двухмерном пространстве. Основной вывод — GNU Octave справляется с задачами лучше остальных открытых математических пакетов, демонстрируя результат (страницы 23 и 25) сопоставимый с матлабовским.&lt;/p&gt;
+&lt;p&gt;Научные расчеты, выполненные с использованием открытого ПО имеют дополнительный «уровень защиты», ведь при желании любой может повторить прогнать те же самые расчеты и проверить валидность результатов. Те же самые вычисления, выполненные на дорогущем ПО, частично отсекают возможность проверки результатов. Проблема на самом деле гораздо шире (английский текст) и дело не только в открытых или проприетарных математических программах. Не секрет, что научные журналы как правило не требуют от авторов предоставить данные и методику, достаточные для гарантированного повтора результатов эксперимента, проверки модели. Особенно часто этим грешат экономисты и финансисты, попросту засекречивая свои данные. Проверка расчетов и выводов среди выборки из массива статей с «засекреченными» данными дала неожиданные результаты (английский текст). Наука, как и софт, должна быть открытой, вот почему открытые математические пакеты имеют ценность для всего общества.&lt;/p&gt;
+&lt;h1 id=&#34;язык-программирования-julia&#34;&gt;Язык программирования Julia.&lt;/h1&gt;
+&lt;p&gt;Язык Julia - это кросс-платформенный компилируемый свободно распространяемый язык программирования (лицензия MIT) с динамической типизацией, который имеет ряд достоинств и недостатков. B Julia pеализована возможность JIT - компиляции на основе LLVM. Компиляция Just-in-Time (JIT) позволяет обеспечить одновременно выразительность современных интерпретируемых языков и производительность таких языков, как С и Fortran. Компилятор JIT выполняет компиляцию во время первого запуска программы, извлекая из текста информацию, не указанную явно программистом, и используя эту информацию для оптимизации создаваемого машинного кода.&lt;/p&gt;
+&lt;p&gt;К достоинствам языка Julia можно отнести следующее:&lt;/p&gt;
+&lt;p&gt;Простота интуитивно понятный язык, синтаксис которого напоминает синтаксис Python и MATLAB;
+быстродействие вычислений программ, написанных на Julia, сопоставимо с быстродействием программ, написанных на С или Fortran;
+эффективная векторизация и распараллеливание вычислений, большое число типов данных, включая рациональный и комплексные числа;
+проведение расчетов при отсутствии некоторых данных (есть тип дан ных missing);
+задание точности вычислений (тип данных BigFloat, функция setprecision);
+реализация символьных вычислений с помощью макро команд;
+использование библиотек, написанных на С и Fortran, и обмен библиотеками с Python и R;
+интеграция с СУБД (PostgreSQL, MySQL, JSON).;
+поддержка символов Unicode;
+использование парадигмы множественной диспетчеризации - вызов функции слабо зависит от типа параметров функции (параметрический полиморфизм);
+наличие хорошей встроенной математической библиотеки с функциями линейной алгебры.
+Julia - это полноценный язык программирования, в котором есть целочисленная арифметика, операции с плавающей точкой, циклы, работа с С-подобными структурами и даже аналог оператора goto. Вместе с тем в языке существует очень удобная возможность векторизации расчетов, которая характерна для языков высокого уровня.&lt;/p&gt;
+&lt;p&gt;Если говорить о недостатках языка Julia, то следует отметить , что время компиляции больших программ может быть довольно заметным (минуты);
+язык относительно новый , поэтому число библиотек на этом языке относительно невелико ( по сравнению с Python );
+невозможно создать отдельно испролняемую программу - программы на языке Julia работают только в среде Julia.
+Выводы
+В научном программировании используется много языков программирования и математических систем, но перечисленные в данной статье, на мой взгляд, наиболее удобные и эффективные.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Оформление отчетов</title>
-      <link>https://example.com/post/post6%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5/</link>
+      <link>http://localhost:1313/post/post6%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5/</link>
       <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post6%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5/</guid>
+      <guid>http://localhost:1313/post/post6%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5/</guid>
       <description>&lt;h2 id=&#34;ну-что-граждане-будем-оформляться&#34;&gt;Ну что, граждане, будем оформляться?&lt;/h2&gt;
 &lt;p&gt;Основные принципы оформления отчетов по практике приведены в Стандарте организации «Порядок оформления методических разработок, курсовых и выпускных квалифицированных работ». Порядок разработан на основе Государственных стандартов оформления документов (ГОСТ 1.5-2001, ГОСТ 7.1-2003).&lt;/p&gt;
 &lt;p&gt;Текст отчета по практике должен быть набран на компьютере шрифтом Times New Roman размером 14 пт. (при оформлении текста используется текстовый редактор Microsoft Word). Шрифт, используемый в иллюстративном материале (таблицы и рисунки), рекомендуется уменьшить до 12 пт. Межстрочный интервал в основном тексте - полуторный. В иллюстративном материале межстрочный интервал рекомендуется сделать одинарным. Поля страницы должны быть:&lt;/p&gt;
@@ -76,9 +191,9 @@
     
     <item>
       <title>Что было на этой неделе V3</title>
-      <link>https://example.com/post/post5week3/</link>
+      <link>http://localhost:1313/post/post5week3/</link>
       <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post5week3/</guid>
+      <guid>http://localhost:1313/post/post5week3/</guid>
       <description>&lt;h2 id=&#34;коротенько-о-главном&#34;&gt;Коротенько о главном&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;Я начала осваивать графический дизайн и поняла, что это именно та деятельность, которая мне была нужна&lt;/li&gt;
@@ -101,9 +216,9 @@
     
     <item>
       <title>Что было на этой неделе V2</title>
-      <link>https://example.com/post/post4week2/</link>
+      <link>http://localhost:1313/post/post4week2/</link>
       <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post4week2/</guid>
+      <guid>http://localhost:1313/post/post4week2/</guid>
       <description>&lt;h2 id=&#34;коротенько-о-главном&#34;&gt;Коротенько о главном&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;Контрольные и самостоятельные обошли меня стороной, что не может не радовать :)&lt;/li&gt;
@@ -123,9 +238,9 @@
     
     <item>
       <title>Язык разметки Markdown</title>
-      <link>https://example.com/post/post3markdown/</link>
+      <link>http://localhost:1313/post/post3markdown/</link>
       <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post3markdown/</guid>
+      <guid>http://localhost:1313/post/post3markdown/</guid>
       <description>&lt;p&gt;Markdown — это простой язык разметки, используемый для создания форматированного текста (например, HTML) с помощью текстового редактора. Он позволяет добавлять к тексту базовое форматирование, используя символы, известные и доступные на всех клавиатурах. Размер шрифта, цвет и другие расширенные параметры недоступны в Markdown.&lt;/p&gt;
 &lt;p&gt;Вы можете встретить Markdown в .md или .markdown файлах.&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
@@ -183,9 +298,9 @@
     
     <item>
       <title>Управление версиями Git</title>
-      <link>https://example.com/post/post2versioncontrol/</link>
+      <link>http://localhost:1313/post/post2versioncontrol/</link>
       <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post2versioncontrol/</guid>
+      <guid>http://localhost:1313/post/post2versioncontrol/</guid>
       <description>&lt;h2 id=&#34;о-системе-контроля-версий&#34;&gt;О системе контроля версий&lt;/h2&gt;
 &lt;p&gt;Что такое «система контроля версий» и почему это важно? Система контроля версий — это система, записывающая изменения в файл или набор файлов в течение времени и позволяющая вернуться позже к определённой версии. Для контроля версий файлов в этой книге в качестве примера будет использоваться исходный код программного обеспечения, хотя на самом деле вы можете использовать контроль версий практически для любых типов файлов.&lt;/p&gt;
 &lt;p&gt;Если вы графический или web-дизайнер и хотите сохранить каждую версию изображения или макета (скорее всего, захотите), система контроля версий (далее VCS) — как раз то, что нужно. Она позволяет вернуть файлы к состоянию, в котором они были до изменений, вернуть проект к исходному состоянию, увидеть изменения, увидеть, кто последний менял что-то и вызвал проблему, кто поставил задачу и когда и многое другое. Использование VCS также значит в целом, что, если вы сломали что-то или потеряли файлы, вы спокойно можете всё исправить. В дополнение ко всему вы получите всё это без каких-либо дополнительных усилий.&lt;/p&gt;
@@ -214,7 +329,7 @@
                /post/post2versioncontrol/1_hufcb633eabb4ce248b64f5422c2c69f5a_20255_7dea048445c495e32aed14824d931f27.webp 400w,
                /post/post2versioncontrol/1_hufcb633eabb4ce248b64f5422c2c69f5a_20255_a2a703ac3f8d04f25559d7442adff88c.webp 760w,
                /post/post2versioncontrol/1_hufcb633eabb4ce248b64f5422c2c69f5a_20255_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/post2versioncontrol/1_hufcb633eabb4ce248b64f5422c2c69f5a_20255_7dea048445c495e32aed14824d931f27.webp&#34;
+               src=&#34;http://localhost:1313/post/post2versioncontrol/1_hufcb633eabb4ce248b64f5422c2c69f5a_20255_7dea048445c495e32aed14824d931f27.webp&#34;
                width=&#34;760&#34;
                height=&#34;649&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -245,7 +360,7 @@
                /post/post2versioncontrol/2_hu74fb508a0af33a33fa0f541a94378552_22810_5270c9cc3d509c774dbcc76125f1c678.webp 400w,
                /post/post2versioncontrol/2_hu74fb508a0af33a33fa0f541a94378552_22810_42d0eeea6ea2b8ccc599ff10f2bcf79c.webp 760w,
                /post/post2versioncontrol/2_hu74fb508a0af33a33fa0f541a94378552_22810_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/post2versioncontrol/2_hu74fb508a0af33a33fa0f541a94378552_22810_5270c9cc3d509c774dbcc76125f1c678.webp&#34;
+               src=&#34;http://localhost:1313/post/post2versioncontrol/2_hu74fb508a0af33a33fa0f541a94378552_22810_5270c9cc3d509c774dbcc76125f1c678.webp&#34;
                width=&#34;760&#34;
                height=&#34;528&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -277,7 +392,7 @@
                /post/post2versioncontrol/3_hu7dff96406965f7bb87732a216019226c_26657_70250987bf7266d4389417b0b0508de0.webp 400w,
                /post/post2versioncontrol/3_hu7dff96406965f7bb87732a216019226c_26657_86bb81a48ba9a95953e221f268702778.webp 760w,
                /post/post2versioncontrol/3_hu7dff96406965f7bb87732a216019226c_26657_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/post2versioncontrol/3_hu7dff96406965f7bb87732a216019226c_26657_70250987bf7266d4389417b0b0508de0.webp&#34;
+               src=&#34;http://localhost:1313/post/post2versioncontrol/3_hu7dff96406965f7bb87732a216019226c_26657_70250987bf7266d4389417b0b0508de0.webp&#34;
                width=&#34;635&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -289,9 +404,9 @@
     
     <item>
       <title>Что было на этой неделе</title>
-      <link>https://example.com/post/post1week1/</link>
+      <link>http://localhost:1313/post/post1week1/</link>
       <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post1week1/</guid>
+      <guid>http://localhost:1313/post/post1week1/</guid>
       <description>&lt;h2 id=&#34;главные-события&#34;&gt;Главные события&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;В первую очередь, конечно же, стоит сказать про учебу, ведь она занимает основную часть моего времени. Итак, пар было достаточно, чтобы понадобился небольшой отдых, но о нем в следующих пунктах. Приходилось много времени уделить выполнению домашнего задания, чтобы довести все до ума, но итоговый результат оправдал все усилия (я надеюсь)&lt;/li&gt;
@@ -315,9 +430,9 @@
     
     <item>
       <title>Blog with Jupyter Notebooks!</title>
-      <link>https://example.com/post/blog-with-jupyter/</link>
+      <link>http://localhost:1313/post/blog-with-jupyter/</link>
       <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/blog-with-jupyter/</guid>
+      <guid>http://localhost:1313/post/blog-with-jupyter/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;from&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;IPython.core.display&lt;/span&gt; &lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;
@@ -342,7 +457,7 @@
                /post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_5a714abab5f53c70f7c38e19755638d3.webp 400w,
                /post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_6b76da17c04a40aee4c1c633206f8065.webp 760w,
                /post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_5a714abab5f53c70f7c38e19755638d3.webp&#34;
+               src=&#34;http://localhost:1313/post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_5a714abab5f53c70f7c38e19755638d3.webp&#34;
                width=&#34;601&#34;
                height=&#34;203&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -362,9 +477,9 @@
     
     <item>
       <title>Writing technical content in Markdown</title>
-      <link>https://example.com/post/writing-technical-content/</link>
+      <link>http://localhost:1313/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/writing-technical-content/</guid>
+      <guid>http://localhost:1313/post/writing-technical-content/</guid>
       <description>&lt;p&gt;Hugo Blox Builder is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Wowchemy.&lt;/p&gt;
@@ -464,7 +579,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-754893612&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-392856417&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -474,7 +589,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-754893612&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-392856417&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -756,9 +871,9 @@ Crash --&gt; [*]
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>https://example.com/publication/preprint/</link>
+      <link>http://localhost:1313/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/preprint/</guid>
+      <guid>http://localhost:1313/publication/preprint/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
@@ -770,9 +885,9 @@ Crash --&gt; [*]
     
     <item>
       <title>Slides</title>
-      <link>https://example.com/slides/example/</link>
+      <link>http://localhost:1313/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/slides/example/</guid>
+      <guid>http://localhost:1313/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-hugo-blox-builder&#34;&gt;Create slides in Markdown with Hugo Blox Builder&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://hugoblox.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; | &lt;a href=&#34;https://docs.hugoblox.com/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -894,31 +1009,18 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Example Project</title>
-      <link>https://example.com/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>External Project</title>
-      <link>https://example.com/project/external-project/</link>
+      <link>http://localhost:1313/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/external-project/</guid>
+      <guid>http://localhost:1313/project/external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An example journal article</title>
-      <link>https://example.com/publication/journal-article/</link>
+      <link>http://localhost:1313/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/journal-article/</guid>
+      <guid>http://localhost:1313/publication/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -935,9 +1037,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>An example conference paper</title>
-      <link>https://example.com/publication/conference-paper/</link>
+      <link>http://localhost:1313/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/</guid>
+      <guid>http://localhost:1313/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
